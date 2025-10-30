@@ -9,7 +9,7 @@
     android:paddingTop="48dp"
     android:paddingBottom="16dp"
     android:fitsSystemWindows="true"
-    android:background="#F2F2F2"
+    android:background="#DAF2F5"
     tools:context=".MainActivity">
 
     <EditText
