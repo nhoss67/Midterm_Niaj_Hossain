@@ -9,6 +9,7 @@
     android:paddingTop="80dp"
     android:paddingBottom="16dp"
     android:fitsSystemWindows="true"
+    android:background="#F2F2F2"
     tools:context=".MainActivity">
 
     <EditText
